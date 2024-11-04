@@ -1,0 +1,4 @@
+production: DEV/PROUD
+environment : cloud/premises
+CI/CD : Jenkins
+TOOLS : DVC,MLFLOW,MONTIORING_APP,Graphana 
